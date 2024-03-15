@@ -1,5 +1,5 @@
 
- <h1 align="center"> <img src="https://github.com/TuanAnhLee99/TuanAnhLee99/blob/main/%23Hello%20World%20(3).gif" alt="Image" width="1200" height="400"></h1>
+ <h1 align="center"> <img src="https://github.com/TuanAnhLee99/TuanAnhLee99/blob/main/%23Hello%20World.gif" alt="Image" width="1200" height="400"></h1>
 
 <h1 align="center">Hi 👋, I'm Tuan Anh</h1>
 <h3 align="center">A Fresher - Entry Level - Starter in Data Analyst</h3>
